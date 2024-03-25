@@ -1,0 +1,30 @@
+.navbar-container {
+	height: 80px;
+	padding: 25px 50px;
+	background-color: #016a70;
+	padding-bottom: 0px !important;
+}
+.inner-navbar {
+	background-color: #ffffff;
+	height: 70px;
+	border-radius: 9px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 5px 25px;
+}
+.links-container {
+	display: flex;
+	align-items: center;
+	gap: 25px;
+}
+.active-link {
+	color: #016a70;
+	font-weight: 600;
+	font-size: 16px;
+}
+.link {
+	color: #393e46;
+	font-weight: 500;
+	font-size: 16px;
+}

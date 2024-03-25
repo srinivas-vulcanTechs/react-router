@@ -1,0 +1,12 @@
+.about-container {
+	background-color: #016a70;
+	padding: 15px 100px;
+	color: white;
+	display: flex;
+	margin-bottom: 50px;
+}
+.about-body {
+	padding: 15px 100px;
+	display: flex;
+	margin-bottom: 50px;
+}
